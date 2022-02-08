@@ -1,7 +1,8 @@
 public class App {
 
     public static int tinhTong(int a, int b) {
-    int tong = a + b;        
+//int a, int b chi mang tinh chat tham khao   
+        int tong = a + b;        
         return tong;
 }
     public static void main(String[] args){
