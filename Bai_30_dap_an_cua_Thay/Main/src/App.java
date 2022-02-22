@@ -19,9 +19,6 @@ public class App {
 	static final int GRAB_SUV_WAIT = 3000;
 	static final int GRAB_BLACK_WAIT = 3500;
 
-	public App() {
-		// TODO Auto-generated constructor stub
-	}
 
 	public static void main(String[] args) {
 
@@ -207,4 +204,5 @@ public class App {
 
 	}
 
-}
+}}
+
